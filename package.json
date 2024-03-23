@@ -1,0 +1,23 @@
+{
+  "name": "errorquis",
+  "version": "1.0.0",
+  "author": "LavonRohan",
+  "license": "SEE LICENSE IN CC-BY-4.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ErikFahey/errorquis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ErikFahey/errorquis.git/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/mocha": "^5.2.5",
+    "@types/node": "^10.12.18",
+    "mocha": "^5.2.0",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
+  },
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts"
+}
